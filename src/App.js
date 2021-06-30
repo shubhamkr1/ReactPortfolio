@@ -1,9 +1,9 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import About from './components/about';
 import Sidebar from './components/sidebar';
 import Introduction from './components/introduction'
-import React, { Component } from 'react';
+import React from 'react';
 
 function App() {
   return (
