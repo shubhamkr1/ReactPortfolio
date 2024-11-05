@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is hosted here :
+[link](https://compassionate-engelbart-18bf70.netlify.app/) to view it online
+
 ## Available Scripts
 
 In the project directory, you can run:
